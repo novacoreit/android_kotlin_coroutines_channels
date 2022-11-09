@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW2_Coroutines_Kotlin_Android</string>
+    <string name="buffer_size">Buffer size</string>
+    <string name="productors">Productors</string>
+    <string name="consumers">Consumers</string>
+    <string name="execute">Execute</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
